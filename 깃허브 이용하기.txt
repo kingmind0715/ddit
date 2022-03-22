@@ -1,0 +1,29 @@
+git add .
+
+git commit -m “commit”
+
+git push origin master
+
+깃허브에 파일 업로드하기.
+
+Git Bath 사용.
+
+git init
+
+git status  상태 확인  (초록불: 데이터 추가, 빨간불: 데이터가 많음)
+
+git add .
+
+git status 상태 재확인
+
+git commit -m “first commit”
+
+git remote add origin  저장소 주소
+
+git remote -v
+
+git branch main
+
+git checkout main
+
+git push origin main
